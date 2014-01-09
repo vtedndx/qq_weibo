@@ -1,6 +1,6 @@
 # QqWeibo
 
-TODO: Write a gem description
+本人自己写得调用腾讯微博API水平有限。
 
 ## Installation
 
@@ -15,15 +15,3 @@ And then execute:
 Or install it yourself as:
 
     $ gem install qq_weibo
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
